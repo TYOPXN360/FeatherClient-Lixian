@@ -1,7 +1,8 @@
 # FeatherClient离线缓存端
 ## 解决某些人无法下载FeatherClient
 ### 使用步骤
-* 下载压缩包[下载链接](https://hub.fastgit.xyz/TYOPXN360/FeatherClient-Lixian/releases/latest)
+* 下载压缩包
+* [我是下载链接](https://hub.fastgit.xyz/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * 解压到任意文件夹内
 * 在Feather启动器里选择该文件夹
 * 启动享受吧！
