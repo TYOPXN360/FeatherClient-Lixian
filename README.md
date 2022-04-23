@@ -1,4 +1,11 @@
 # FeatherClient离线缓存端
 ## 解决某些人无法下载FeatherClient
 ### 使用步骤
-
+* 下载压缩包
+* 解压到任意文件夹内
+* 在Feather启动器里选择该文件夹
+* 启动享受吧！
+### 图片步骤
+* ![image.png](https://s2.loli.net/2022/04/23/1hGVifYRw9DcvAu.png)
+* ![image.png](https://s2.loli.net/2022/04/23/yWYa6JEvu73xshL.png)
+* ![image.png](https://s2.loli.net/2022/04/23/hUQpB69H5uiTgFG.png)
