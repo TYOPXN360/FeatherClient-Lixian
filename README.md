@@ -9,7 +9,6 @@
 * [我是下载链接2](https://github.abskoop.workers.dev/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [我是下载链接3](https://gh.api.99988866.xyz/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [我是下载链接4](https://ghproxy.com/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
-* 解压到任意文件夹内
 ### 使用步骤
 * 下载压缩包并解压出来（至一个文件夹内）
 * 在Feather启动器里选择解压出来的文件夹
