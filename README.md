@@ -1,9 +1,10 @@
 # FeatherClient离线缓存端
 ## 解决某些人无法下载FeatherClient
 ## 适用情况
-* 无法启动游戏
+* 无法启动游戏(不是报错那种)
 * 按下启动按钮一会儿又恢复原样
-* 无梯子又想下载Feather Client的
+* 无梯子又想下载Feather Client的游戏文件的
+* 游戏启动报错需要修复替换的
 ### 下载链接
 * [我是下载链接](https://hub.fastgit.xyz/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [我是下载链接2](https://github.abskoop.workers.dev/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
