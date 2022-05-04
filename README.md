@@ -7,11 +7,11 @@
 * 游戏启动报错需要修复替换的
 ### 下载链接
 * [我是下载链接](https://hub.fastgit.xyz/TYOPXN360/FeatherClient-Lixian/releases/latest)
-* [我是下载链接2](https://n7d0jzpc.fast-github.tk/-----https://hub.fastgit.xyz/TYOPXN360/FeatherClient-Lixian/releases/latest)
+* 我是下载链接2 https://n7d0jzpc.fast-github.tk/-----https://hub.fastgit.xyz/TYOPXN360/FeatherClient-Lixian/releases/latest
 * [我是下载链接3](https://github.abskoop.workers.dev/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [我是下载链接4](https://gh.api.99988866.xyz/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [我是下载链接5](https://ghproxy.com/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
-* [原Github下载链接](https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
+* 原Github下载链接 https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest
 ### 使用步骤
 * 下载压缩包并解压出来（至一个文件夹内）
 * 在Feather启动器里选择解压出来的文件夹
