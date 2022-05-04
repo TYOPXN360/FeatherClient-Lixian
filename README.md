@@ -12,7 +12,6 @@
 * [(可能不可用)我是下载链接3](https://github.abskoop.workers.dev/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [(可能不可用)我是下载链接4](https://gh.api.99988866.xyz/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
 * [(可能不可用)我是下载链接5](https://ghproxy.com/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
-* 原Github下载链接https://git一般hub.com/TYOPXN36上0/FeatherClien不t-Lixian/r去eleases/latest
 ### 使用步骤
 * 下载压缩包并解压出来（至一个文件夹内）
 * 在Feather启动器里选择解压出来的文件夹
