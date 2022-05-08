@@ -10,7 +10,7 @@
 * 下载方法2
 * 进入https://toolwa.com/github/
 * 选择线路1
-* 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest (自己复制过去，且确认自己时候复制正确！)
+* 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest (自己复制过去，一定要选择复制而不是复制链接！！否则复制会不正确的！)
 * 点加速下载
 * 然后点击Feather.client.zip下载即可
 * [(可能不可用)我是下载链接3](https://github.abskoop.workers.dev/https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest)
