@@ -12,7 +12,7 @@
 * 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest (自己复制过去，一定要选中后复制而不是直接右键复制链接！！否则复制会不正确的！)
 * 点加速下载
 * 然后点击Feather.client.zip下载即可
-* ![image.gif]https://s2.loli.net/2022/05/22/sHoTpkefXDxI4ZF.gif
+* ![image]https://s2.loli.net/2022/05/22/sHoTpkefXDxI4ZF.gif
 ### 使用步骤
 * 下载压缩包并解压出来（至一个文件夹内）
 * 在Feather启动器里选择解压出来的文件夹
