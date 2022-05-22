@@ -6,7 +6,7 @@
 * 无梯子又想下载Feather Client的游戏文件的
 * 游戏启动报错需要修复替换的
 ### 下载链接
-* 下载方法2
+* 下载方法
 * 进入https://toolwa.com/github/
 * 选择线路1
 * 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest (自己复制过去，一定要选中后复制而不是直接右键复制链接！！否则复制会不正确的！)
