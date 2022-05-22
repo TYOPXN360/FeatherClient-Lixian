@@ -11,7 +11,8 @@
 * 如果速度慢或找不到请求文件的看下面
 * 进入https://toolwa.com/github/
 * 选择线路1
-* 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest (自己复制过去，一定要选中后复制而不是直接右键复制链接！！否则复制会不正确的！)
+* 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest 
+* (自己复制过去，一定要框选后复制而不是直接右键复制链接！否则复制会不正确的！框选时检查你有没有多复制了链接前面或后面的空格，多复制了空格也会导致复制不正确)
 * 点加速下载
 * 然后点击Feather.client.zip下载即可
 * ![image](https://s2.loli.net/2022/05/22/sHoTpkefXDxI4ZF.gif)
