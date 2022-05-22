@@ -7,6 +7,8 @@
 * 游戏启动报错需要修复替换的
 ### 下载链接
 * 下载方法
+* 1.点击右边的Releases下载Feather.client.zip即可------------→
+* 如果速度慢或找不到请求文件的看下面
 * 进入https://toolwa.com/github/
 * 选择线路1
 * 输入https://github.com/TYOPXN360/FeatherClient-Lixian/releases/latest (自己复制过去，一定要选中后复制而不是直接右键复制链接！！否则复制会不正确的！)
