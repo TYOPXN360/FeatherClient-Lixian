@@ -1,4 +1,5 @@
 # FeatherClient离线缓存端
+## 因为本人要中考，所以每周更新一次！！
 ## 解决某些人无法下载FeatherClient
 ## 适用情况
 * 启动游戏卡在下载libraries的
