@@ -1,0 +1,149 @@
+Run cd $GITHUB_WORKSPACE/kernel_workspace/android-kernel
+make[1]: Entering directory '/home/runner/work/KernelSU_Action/KernelSU_Action/kernel_workspace/android-kernel/out'
+  GEN     ./Makefile
+  HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/kconfig/conf.o
+  SHIPPED scripts/kconfig/zconf.tab.c
+  SHIPPED scripts/kconfig/zconf.lex.c
+  HOSTCC  scripts/kconfig/zconf.tab.o
+  HOSTLD  scripts/kconfig/conf
+#
+# configuration written to .config
+#
+make[1]: Leaving directory '/home/runner/work/KernelSU_Action/KernelSU_Action/kernel_workspace/android-kernel/out'
+make[1]: Entering directory '/home/runner/work/KernelSU_Action/KernelSU_Action/kernel_workspace/android-kernel/out'
+  GEN     ./Makefile
+scripts/kconfig/conf  --silentoldconfig Kconfig
+arch/arm64/Makefile:57: Detected assembler with broken .inst; disassembly will be unreliable
+  CHK     include/config/kernel.release
+  GEN     ./Makefile
+  WRAP    arch/arm64/include/generated/uapi/asm/errno.h
+  WRAP    arch/arm64/include/generated/uapi/asm/ioctl.h
+  WRAP    arch/arm64/include/generated/uapi/asm/ioctls.h
+  WRAP    arch/arm64/include/generated/uapi/asm/ipcbuf.h
+  WRAP    arch/arm64/include/generated/uapi/asm/kvm_para.h
+  WRAP    arch/arm64/include/generated/uapi/asm/mman.h
+  WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
+  CHK     include/generated/uapi/linux/version.h
+  UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm64/include/generated/uapi/asm/poll.h
+  WRAP    arch/arm64/include/generated/uapi/asm/resource.h
+  WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
+  WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
+  WRAP    arch/arm64/include/generated/uapi/asm/socket.h
+  WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
+  WRAP    arch/arm64/include/generated/uapi/asm/swab.h
+  WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
+  WRAP    arch/arm64/include/generated/uapi/asm/termios.h
+  WRAP    arch/arm64/include/generated/uapi/asm/types.h
+  HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/basic/bin2c
+  UPD     include/config/kernel.release
+  Using .. as source for kernel
+  WRAP    arch/arm64/include/generated/asm/bugs.h
+  WRAP    arch/arm64/include/generated/asm/clkdev.h
+  WRAP    arch/arm64/include/generated/asm/delay.h
+  WRAP    arch/arm64/include/generated/asm/div64.h
+  WRAP    arch/arm64/include/generated/asm/dma.h
+  WRAP    arch/arm64/include/generated/asm/dma-contiguous.h
+  WRAP    arch/arm64/include/generated/asm/early_ioremap.h
+  WRAP    arch/arm64/include/generated/asm/emergency-restart.h
+  WRAP    arch/arm64/include/generated/asm/hw_irq.h
+  WRAP    arch/arm64/include/generated/asm/irq_regs.h
+  WRAP    arch/arm64/include/generated/asm/kdebug.h
+  WRAP    arch/arm64/include/generated/asm/kmap_types.h
+  WRAP    arch/arm64/include/generated/asm/local.h
+  WRAP    arch/arm64/include/generated/asm/local64.h
+  WRAP    arch/arm64/include/generated/asm/mcs_spinlock.h
+  WRAP    arch/arm64/include/generated/asm/mm-arch-hooks.h
+  WRAP    arch/arm64/include/generated/asm/msi.h
+  WRAP    arch/arm64/include/generated/asm/preempt.h
+  WRAP    arch/arm64/include/generated/asm/rwsem.h
+  WRAP    arch/arm64/include/generated/asm/segment.h
+  WRAP    arch/arm64/include/generated/asm/serial.h
+  WRAP    arch/arm64/include/generated/asm/set_memory.h
+  WRAP    arch/arm64/include/generated/asm/sizes.h
+  WRAP    arch/arm64/include/generated/asm/switch_to.h
+  WRAP    arch/arm64/include/generated/asm/trace_clock.h
+  WRAP    arch/arm64/include/generated/asm/unaligned.h
+  WRAP    arch/arm64/include/generated/asm/user.h
+  WRAP    arch/arm64/include/generated/asm/vga.h
+  WRAP    arch/arm64/include/generated/asm/xor.h
+  CHK     include/generated/utsrelease.h
+  UPD     include/generated/utsrelease.h
+  HOSTCC  scripts/dtc/dtc.o
+  HOSTCC  scripts/genksyms/genksyms.o
+  HOSTCC  scripts/dtc/flattree.o
+  SHIPPED scripts/genksyms/parse.tab.c
+  SHIPPED scripts/genksyms/lex.lex.c
+  SHIPPED scripts/genksyms/parse.tab.h
+  HOSTCC  scripts/genksyms/parse.tab.o
+  HOSTCC  scripts/dtc/fstree.o
+  HOSTCC  scripts/dtc/data.o
+  HOSTCC  scripts/genksyms/lex.lex.o
+  HOSTCC  scripts/dtc/livetree.o
+  HOSTLD  scripts/genksyms/genksyms
+  HOSTCC  scripts/dtc/treesource.o
+  CC      scripts/mod/empty.o
+/usr/bin/as: unrecognized option '-EL'
+clang-14: error: assembler command failed with exit code 1 (use -v to see invocation)
+make[3]: *** [../scripts/Makefile.build:357: scripts/mod/empty.o] Error 1
+make[2]: *** [../scripts/Makefile.build:671: scripts/mod] Error 2
+make[2]: *** Waiting for unfinished jobs....
+  HOSTCC  scripts/dtc/srcpos.o
+  HOSTCC  scripts/dtc/checks.o
+  HOSTCC  scripts/dtc/util.o
+  SHIPPED scripts/dtc/dtc-lexer.lex.c
+  SHIPPED scripts/dtc/dtc-parser.tab.h
+  SHIPPED scripts/dtc/dtc-parser.tab.c
+  HOSTCC  scripts/dtc/dtc-lexer.lex.o
+  HOSTCC  scripts/dtc/dtc-parser.tab.o
+  HOSTLD  scripts/dtc/dtc
+make[1]: *** [/home/runner/work/KernelSU_Action/KernelSU_Action/kernel_workspace/android-kernel/Makefile:582: scripts] Error 2
+make[1]: *** Waiting for unfinished jobs....
+-- KernelSU version: 11485
+-- KernelSU Manager signature size: 0x033b
+-- KernelSU Manager signature hash: c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6
+..
+..
+*MTK_GPU_VERSION 2 = valhall
+*MTK_GPU_VERSION 3 = r25p0
+FDVT: Drv use 5.1 folder
+..
+..
+..
+..
+../drivers/misc/mediatek/ccu/src/Makefile:27: CCU_MAKE_FILE_CALLED
+MTK_GPU_VERSION 1 = mali
+************  drivers/trusty/mtee-kree mk ************
+imgsensor drv by common ../common/v1_1/ov64b40sunny_mipi_raw/ ../common/v1_1/ov16a1qofilm_mipi_raw/ ../common/v1_1/gc02m1sunny_mipi_raw/ ../common/v1_1/imx355sunny_mipi_raw/
+imgsensor drv by platform 
+*MTK_GPU_VERSION 2 = valhall
+*MTK_GPU_VERSION 3 = r25p0
+mali MTK evironment, building r25p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6885"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r25p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6885"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r25p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6885"
+*GPU defined GPU BM QoS 2.0
+../drivers/misc/mediatek/sensor/2.0/mtk_nanohub/Makefile:5: "config_mtk_platform:"mt6885""
+"CONFIG_MICROTRUST_TEE_VERSION="300""
+"CONFIG_MICROTRUST_TEE_SUPPORT=y"
+"CONFIG_MICROTRUST_TZ_DRIVER=Y"
+"CONFIG_MICROTRUST_VFS_DRIVER=Y"
+"CONFIG_MICROTRUST_FP_DRIVER=Y"
+"CONFIG_MICROTRUST_DEBUG="
+"CONFIG_MICROTRUST_TEST_DRIVERS="
+TCORE_UT_TESTS_SUPPORT = n
+TCORE_PROFILING_SUPPORT = n
+TCORE_PROFILING_AUTO_DUMP = n
+TCORE_MEMORY_LEAK_DETECTION_SUPPORT = n
+make[1]: Leaving directory '/home/runner/work/KernelSU_Action/KernelSU_Action/kernel_workspace/android-kernel/out'
+make: *** [Makefile:146: sub-make] Error 2
+Error: Process completed with exit code 2.
